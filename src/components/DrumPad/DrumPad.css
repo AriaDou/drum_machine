@@ -1,0 +1,16 @@
+.drum-pad {
+  background-color: #9C2A2A;
+  border-radius: 8px;
+  border: none;
+  box-shadow: 3px 3px 5px 1px rgb(120, 40, 40);
+  cursor: pointer;
+  outline: none;
+  font-weight: bold;
+  font-size: 1em;
+  color: white;
+}
+
+.drum-pad:hover {
+  background-color: #BF9C7F;
+  box-shadow: 3px 3px 5px 1px #A6642E;
+}
